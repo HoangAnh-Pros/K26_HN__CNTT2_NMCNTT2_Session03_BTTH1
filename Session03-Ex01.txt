@@ -1,0 +1,12 @@
+3. yêu cầu đầu ra
+*Phần 1:(phân tích)
+-Sai lầm 1:
+ Bạn đang thiếu convention và không pp dung quy tắc đặt tên file
+-Sai lầm 2:
+Hiểu lầm về tốc độ mạng 100Mbps là 100Megabit person second và 12.5 MB/s là 12.5 Megabite /s Mà: 1bite=8bit
+=>100:8=12.5 MB (đây là lí do bạn đang hiểu sai về tốc độ mạng)
+sai lầm 3:lí do SSD 256GB thấp hơn thực tế do 256GB được nhà phát hành sản xuất và nhận 1GB=1000MB mà máy tính nhận 1GB=1024MB nên máy nhận (256x1000):1000=250GB
+
+*Phần 2:(hoàn thiện)
+-Thiết kế lại theo ổ D:
+-->"C:\Users\ADMIN\OneDrive\Desktop\Python\NMCNTT\Session01\bai_tap_01.py"
